@@ -1,6 +1,5 @@
 ## Zepto SQL Data Analysis Project
 
-![Uploading image.png…](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftimesofindia.indiatimes.com%2Ftechnology%2Ftech-news%2Fhumare-pass-iphone-hai-tablet-hai-aur-ab-zepto-teases-new-addition%2Farticleshow%2F117947185.cms&psig=AOvVaw0l_7-oQUuKxwvaQ4keOghC&ust=1755365071931000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJjs19GqjY8DFQAAAAAdAAAAABAM)
 
 ### 📌 Project Overview
 
