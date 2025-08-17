@@ -1,4 +1,6 @@
 ## Zepto SQL Data Analysis Project
+ 
+ <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d252ec56-5832-4574-8e58-4a06d76bf271" />
 
 
 ### 📌 Project Overview
